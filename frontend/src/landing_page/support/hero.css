@@ -1,0 +1,53 @@
+.hero {
+  background-color: #387ed1;
+  color: white;
+  padding: 60px 80px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hero-left {
+  width: 55%;
+}
+
+.hero-title {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.hero-text {
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+.hero-input {
+  width: 100%;
+  padding: 15px;
+  font-size: 15px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  margin-bottom: 15px;
+}
+
+.hero-links a {
+  color: #e6e6e6;
+  margin-right: 15px;
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+.hero-right {
+  width: 35%;
+}
+
+.hero-right h4 {
+  margin-bottom: 10px;
+}
+
+.hero-right p {
+  font-size: 14px;
+  margin-bottom: 8px;
+  text-decoration: underline;
+  cursor: pointer;
+}

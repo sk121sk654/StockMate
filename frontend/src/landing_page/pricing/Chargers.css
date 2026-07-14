@@ -1,0 +1,36 @@
+.table-wrapper {
+  margin-bottom : 85px;
+}
+
+.charges {
+  margin-top: 20px;   /* Hero se thoda gap */
+}
+
+.charges-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 30px;
+  background-color: #fff;
+}
+
+.charges-table th,
+.charges-table td {
+  padding: 16px;
+  border-bottom: 1px solid #e6e6e6; /* 🔥 no vertical line */
+  text-align: left;
+  font-size: 14px;
+}
+
+.charges-table th {
+  background-color: #fafafa;
+  font-weight: 600;
+}
+
+.free-tag {
+  background-color: #4caf50;
+  color: white;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 600;
+}

@@ -1,0 +1,40 @@
+body{
+  background: #f7f7f7;
+}
+
+.hero-search {
+  padding: 40px 80px;
+  background: #f7f7f7;
+}
+
+.hero-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hero-top h1 {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.ticket-btn {
+  background: #387ed1;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.search-box {
+  margin-top: 25px;
+}
+
+.search-box input {
+  width: 100%;
+  padding: 14px 16px;
+  font-size: 15px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
